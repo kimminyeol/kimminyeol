@@ -1,2 +1,3 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=500&text=Happy%20Day%20To%20Love!&fontAlign=50&fontAlignY=40&color=gradient)
 ### 🙇 안녕하세요, AI Back-end  Programmer🗃️로 성장해나가고 있는 김민열입니다!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimminyeol&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimminyeol&count_bg=%23251EB8&title_bg=%23B50C0C&icon=salesforce.svg&icon_color=%23FFFFFF&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
