@@ -13,10 +13,10 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
-Infra & Tools 
-* GIT
-* GitHub
-* Notion
-* VSCode
-### Top Lnags
+Infra & Tools   
+![Git](https://img.shields.io/badge/git-092E20.svg?&style=for-the-badge&logo=git&logoColor=#F05032)
+![Github](https://img.shields.io/badge/Github-092E20.svg?&style=for-the-badge&logo=Github&logoColor=#181717)
+![Notion](https://img.shields.io/badge/Notion-092E20.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+### Top Lnaguages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminyeol&layout=compact)
+
