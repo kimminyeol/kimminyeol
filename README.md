@@ -17,6 +17,6 @@ Infra & Tools
 ![Git](https://img.shields.io/badge/git-092E20.svg?&style=for-the-badge&logo=git&logoColor=#F05032)
 ![Github](https://img.shields.io/badge/Github-092E20.svg?&style=for-the-badge&logo=Github&logoColor=#181717)
 ![Notion](https://img.shields.io/badge/Notion-092E20.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-### Top Lnaguages
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminyeol&layout=compact)
 
