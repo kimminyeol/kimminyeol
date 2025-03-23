@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Happy%20Day%20To%20Love!&fontSize=60&fontColor=ffffff)
 
----
 
 ### 🙇‍♂️ 안녕하세요! AI Back-end Programmer로 성장 중인 **김민열**입니다.🗃️
 
