@@ -1,22 +1,48 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=500&text=Happy%20Day%20To%20Love!&fontAlign=50&fontAlignY=40&color=gradient)
-### 🙇 안녕하세요, AI Back-end  Programmer🗃️로 성장해나가고 있는 김민열입니다!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimminyeol&count_bg=%23251EB8&title_bg=%23B50C0C&icon=salesforce.svg&icon_color=%23FFFFFF&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Happy%20Day%20To%20Love!&fontSize=60&fontColor=ffffff)
 
-### Skills 💪
-📋Language & Framworks
+---
 
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-E34F26.svg?&style=for-the-badge&logo=python&logoColor=F37626) 
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+### 🙇‍♂️ 안녕하세요! AI Back-end Programmer로 성장 중인 **김민열**입니다.🗃️
 
-Infra & Tools   
-![Git](https://img.shields.io/badge/git-092E20.svg?&style=for-the-badge&logo=git&logoColor=#F05032)
-![Github](https://img.shields.io/badge/Github-092E20.svg?&style=for-the-badge&logo=Github&logoColor=#181717)
-![Notion](https://img.shields.io/badge/Notion-092E20.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminyeol&layout=compact)
+**🔭 I'm currently focusing on:**
 
+- 🧠 **AI & Machine Learning** (RAG, NLP, Recommendation Systems)
+- 📈 **Data Analysis & Statistics** (Time Series, Clustering, PCA)
+- 🌐 **Web Development & Backend** (Django, REST APIs)
+
+---
+
+### 🚀 **Skills & Technologies**
+
+**📋 Languages & Frameworks:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**🛠️ Infra & Tools:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminyeol&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminyeol&layout=compact&theme=radical)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimminyeol&count_bg=%2300CACA&title_bg=%23555555&icon=salesforce.svg&icon_color=%23FFFFFF&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+
+### 📫 **Connect with me!**
+
+[![GitHub](
