@@ -36,6 +36,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminyeol&layout=compact&theme=radical)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimminyeol&count_bg=%2300CACA&title_bg=%23555555&icon=salesforce.svg&icon_color=%23FFFFFF&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
