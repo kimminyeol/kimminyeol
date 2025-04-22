@@ -40,5 +40,15 @@ AI 개발자이자 데이터 사이언티스트를 꿈꾸며 매일 한 걸음�
 
 ---
 
+### 📁 Portfolio
+
+- [Notion 포트폴리오 바로가기](https://cerulean-bull-96d.notion.site/PORTFOLIO-1d6c7970d22b80f2b579c42eb89fd598?pvs=4)
+
+---
+### 📬 Contact
+
+📧 Email: [minyeol1315@naver.com](mailto:minyeol1315@naver.com)
+
+
 ### MOTTO
 > **“내가 가장 갖고 싶은 것은 가장 가기 싫은 곳에 있다”**
