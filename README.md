@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Happy%20Day%20To%20Love!&fontSize=60&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Happy%20Day%20For%20Love!&fontSize=60&fontColor=ffffff)
 
 ### 👋 Hello!  
 🙌 I'm a passionate **Data Scientist** from South Korea.  
