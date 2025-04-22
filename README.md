@@ -38,13 +38,11 @@ AI 개발자이자 데이터 사이언티스트를 꿈꾸며 매일 한 걸음�
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminyeol&layout=compact&theme=radical)
 
----
 
 ### 📁 Portfolio
 
 - [Notion 포트폴리오 바로가기](https://cerulean-bull-96d.notion.site/PORTFOLIO-1d6c7970d22b80f2b579c42eb89fd598?pvs=4)
 
----
 ### 📬 Contact
 
 📧 Email: [minyeol1315@naver.com](mailto:minyeol1315@naver.com)
