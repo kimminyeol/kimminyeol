@@ -2,7 +2,7 @@
 
 ### 👋 Hello!  
 🙌 I'm a passionate **Data Scientist** from South Korea.  
-🧑🏻‍💻 My goal is to become an **AI Developer** who builds smart solutions through data.
+🧑🏻‍💻 My goal is to become an **AI Developer** who builds smart solutions through data.  
 📚 I'm studying **Statistics**, **Data Science**, and **Computer Science**.
 
 ---
