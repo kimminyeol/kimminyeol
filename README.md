@@ -2,16 +2,15 @@
 
 ### 👋 Hello!  
 🙌 I'm a passionate **Data Scientist** from South Korea.  
-🧑🏻‍💻 My goal is to become an **AI Developer** who builds smart solutions through data.  
-🏫 I'm majoring in **Statistics and Data Science** at Dongguk University.
+🧑🏻‍💻 My goal is to become an **AI Developer** who builds smart solutions through data.
+📚 I'm studying **Statistics**, **Data Science**, and **Computer Science**.
 
 ---
 
-### 💡 Interests
+### 💡 Research Interests
 
-- 🧠 **AI & Deep Learning**: Retrieval-Augmented Generation (RAG), Recommender Systems  
-- 📊 **Data Analysis & Statistics**: Time Series Analysis, Clustering  
-- 🌐 **Web Development & Backend**: Django
+- 🧠 **AI & Deep Learning**: Retrieval-Augmented Generation (RAG), Knowledge Graphs, Continual Learning, Recommender Systems  
+- 📊 **Data Analysis & Statistics**: Time Series Analysis, Clustering
 
 ---
 
